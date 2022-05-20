@@ -18,8 +18,8 @@ $ bash spam.sh
 
 
 
-#Mightys-Parrot
+# Mightys-Parrot
 
-please followe me on github!
+👨‍💻please followe me on github!👼💛
 
-#Thank you very much
+# Thank you very much
