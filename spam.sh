@@ -42,49 +42,49 @@ read -p'Chose Spam Type :-' userinput1;
 if [ "${userinput1:-}" = "1" ]
 then
     copy
-    cp spam1 /data/data/com.termux/files/home/WhatsappSPAM/temp
+    cp spam1 /data/data/com.termux/files/home/Whatsapp-Spam/temp
     req
     cat spam1
 fi
 if [ "${userinput1:-}" = "2" ]
 then
     copy
-    cp spam2 /data/data/com.termux/files/home/WhatsappSPAM/temp
+    cp spam2 /data/data/com.termux/files/home/Whatsapp-Spam/temp
     req
     cat spam2
 fi
 if [ "${userinput1:-}" = "3" ]
 then
     copy
-    cp spam3 /data/data/com.termux/files/home/WhatsappSPAM/temp
+    cp spam3 /data/data/com.termux/files/home/Whatsapp-Spam/temp
     req
     cat spam3
 fi
 if [ "${userinput1:-}" = "4" ]
 then
     copy
-    cp spam4 /data/data/com.termux/files/home/WhatsappSPAM/temp
+    cp spam4 /data/data/com.termux/files/home/Whatsapp-Spam/temp
     req
     cat spam4
 fi
 if [ "${userinput1:-}" = "5" ]
 then
     copy
-    cp spam5 /data/data/com.termux/files/home/WhatsappSPAM/temp
+    cp spam5 /data/data/com.termux/files/home/Whatsapp-Spam/temp
     req
     cat spam5
 fi
 if [ "${userinput1:-}" = "6" ]
 then
     copy
-    cp spam6 /data/data/com.termux/files/home/WhatsappSPAM/temp
+    cp spam6 /data/data/com.termux/files/home/Whatsapp-Spam/temp
     req
     cat spam6
 fi
 if [ "${userinput1:-}" = "7" ]
 then
     copy
-    cp spam7 /data/data/com.termux/files/home/WhatsappSPAM/temp
+    cp spam7 /data/data/com.termux/files/home/Whatsapp-Spam/temp
     req
     cat spam7
 fi
